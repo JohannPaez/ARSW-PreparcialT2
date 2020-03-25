@@ -13,7 +13,7 @@
 	puede extender añadiendo en el controlador los metodos requeridos, y agregando la funcionalidad a la capa de servicios.
 	
 - URL HEROKU
-	- [ARSW - PREPARCIAL II](https://johann-paez-ars2-t2.herokuapp.com/)
+	- [ARSW - PREPARCIAL II](https://johan-paez-arsw-t2.herokuapp.com/)
 
 
 
